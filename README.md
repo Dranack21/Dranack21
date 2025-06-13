@@ -1,2 +1,1 @@
-<h1>Hello ⭐</h1>
-#
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9CC21&width=435&lines=Hi+there+%F0%9F%8C%99+!+Welcome+to+my+github)](https://git.io/typing-svg)
